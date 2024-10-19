@@ -79,8 +79,7 @@ education:
     date_start: 2015-09-01
     date_end: 2018-06-01
     summary: |
-      Grade: Summa cum Laude (highest honors).
-      Thesis: "Photonic Bloch waves" under the supervision of Prof. Fabio Sciarrino.
+      Grade: Summa cum Laude (highest honors). Thesis: "Photonic Bloch waves" under the supervision of Prof. Fabio Sciarrino.
       
 work:
   - position: Postdoctoral Researcher
