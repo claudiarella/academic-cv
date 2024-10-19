@@ -107,7 +107,7 @@ work:
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-#skills:
+skills:
 #  - name: Technical Skills
 #    items:
 #      - name: Python
@@ -139,7 +139,7 @@ work:
 #        percent: 80
 #        icon: camera
 
-#languages:
+languages:
 #  - name: English
 #    percent: 100
 #  - name: Chinese
@@ -179,6 +179,22 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## About Me
+## Biography
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a postdoctoral researcher in Mathematical Physics at the Institut des Hautes Études Scientifiques, France, funded by the [Huawei Young Talents Program][Huawei], and a member of the [UNIVERSE+ collaboration][ERC2].
+
+From September 2020 to September 2024, I conducted my doctoral studies under the supervision of Prof. Marcos Mari&ntilde;o at the University of Geneva, Switzerland, funded by the [ERC Synergy Grant ReNewQuantum][ERC]. I was also affiliated with the [National Centre of Competence in Research SwissMAP][SwissMAP] and a member of the Scientific Council of the International Conference Centre [SwissMAP Research Station][SRS] in Les Diablerets, Switzerland.
+
+I am interested in the many facets of theoretical high-energy physics, particularly the mathematical structures and dualities arising in quantum field and string theories. My most recent work focuses on the non-perturbative aspects of topological string theory and complex Chern-Simons theory and the interplay of resurgence, strong-weak duality, and quantum modularity. Other topics of interest are the number-theoretic properties of Calabi-Yau manifolds, algebraic and geometric structures in scattering amplitudes, effective field theory techniques, and model-building and physics probes beyond the Standard Model.
+
+Here is my [CV][CV] and a list of attended [events][activities].
+
+[CV]: files/CV.pdf
+[activities]: files/CV_events.pdf
+
+[SwissMAP]: https://www.nccr-swissmap.ch
+[SRS]: https://swissmaprs.ch
+
+[ERC]: https://renewquantum.eu
+[ERC2]: https://positive-geometry.com
+[Huawei]: https://www.ihes.fr/en/huawei-young-talents-program/
