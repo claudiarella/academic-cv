@@ -76,10 +76,11 @@ education:
     #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BSc in Physics
     institution: Sapienza University of Rome
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2015-09-01
+    date_end: 2018-07-01
     summary: |
-      Summa cum Laude (highest honors). Thesis titled "Photonic Bloch waves" under the supervision of Prof. Fabio Sciarrino.
+      Grade: Summa cum Laude (highest honors). 
+      Thesis: "Photonic Bloch waves" under the supervision of Prof. Fabio Sciarrino.
       
 work:
   - position: Postdoctoral Researcher
