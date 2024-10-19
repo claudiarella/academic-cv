@@ -80,7 +80,6 @@ education:
     date_end: 2018-06-01
     summary: |
       Grade: Summa cum Laude (highest honors).
-
       Thesis: "Photonic Bloch waves" under the supervision of Prof. Fabio Sciarrino.
       
 work:
