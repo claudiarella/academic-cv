@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Claudia Rella
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Claudia
+last_name: Rella
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 📚
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,36 +20,38 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Institut des Hautes Études Scientifiques
+    url: https://www.ihes.fr/en/
+  - name: Université Paris-Saclay
+    url: https://www.universite-paris-saclay.fr/en/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:claudia.rella@unige.ch'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/claudia-rella/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=5p3L8pcAAAAJ&hl=en&authuser=3&oi=ao
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-7852-2381
+  - icon: academicons/inspire
+    url: https://inspirehep.net/authors/1939853
+  - icon: academicons/researchgate
+    url: https://www.researchgate.net/profile/Claudia_Rella
+  - icon: academicons/arxiv
+    url: http://arxiv.org/a/rella_c_1
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Algebraic Geometry
+  - Mathematical Physics
+  - Theoretical High Energy Physics
 
 education:
   - area: PhD Artificial Intelligence
