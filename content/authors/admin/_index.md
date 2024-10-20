@@ -89,8 +89,7 @@ education:
     institution: Sapienza University of Rome
     date_start: '2015-09-01'
     date_end: '2018-06-01'
-    summary:
-      |
+    summary: |2-
       Grade: Summa cum Laude (highest honours). \n
       Thesis: _Photonic Bloch waves_ under the supervision of Prof. Fabio Sciarrino.
       
