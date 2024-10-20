@@ -56,17 +56,23 @@ interests:
 education:
   - area: PhD in Mathematical Physics
     institution: Department of Theoretical Physics, University of Geneva
-    date_start: '2024'
-    date_end: '2024'
+    date_start: '2020-09-01'
+    date_end: '2024-09-01'
     summary: |
       Très Bien (highest honors). Thesis titled "On the arithmetic of resurgent topological strings" under the supervision of Prof. Marcos Mariño. Affiliated with NCCR SwissMAP and funded by ERC SyG ReNewQuantum.
     #button:
     #  text: 'PhD Thesis'
     #  url: 'https://example.com'
+  - area: NCCR SwissMAP Master Class in Mathematical Physics
+    institution: Section of Mathematics, University of Geneva
+    date_start: '2019-09-01'
+    date_end: '2020-06-01'
+    summary: |
+      ... 
   - area: MSc in Mathematical and Theoretical Physics
     institution: Mathematical Institute and Department of Physics, University of Oxford
-    date_start: '2024-10-01'
-    date_end: '2024-10-01'
+    date_start: '2018-09-01'
+    date_end: '2019-06-01'
     summary: |
       Distinction (highest honors). Thesis titled "Motivic amplitudes" under the supervision of Prof. Francis Brown. Affiliated with St John’s College.
 
@@ -76,8 +82,8 @@ education:
     #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BSc in Physics
     institution: Sapienza University of Rome
-    date_start: '2024-10-01'
-    date_end: '2024-10-01'
+    date_start: '2015-09-01'
+    date_end: '2018-06-01'
     summary: |
       Grade: Summa cum Laude (highest honors). Thesis: "Photonic Bloch waves" under the supervision of Prof. Fabio Sciarrino.
       
