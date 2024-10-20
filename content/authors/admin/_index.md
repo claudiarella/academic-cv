@@ -60,7 +60,8 @@ education:
     date_end: '2024-09-01'
     summary: |
       Grade: Très Bien (highest honours). 
-      Thesis: "On the arithmetic of resurgent topological strings" under the supervision of Prof. Marcos Mariño.
+      Thesis: _On the arithmetic of resurgent topological strings_. 
+      Supervisor: Prof. Marcos Mariño.
       Affiliated with NCCR SwissMAP and funded by ERC SyG ReNewQuantum.
     #button:
     #  text: 'PhD Thesis'
@@ -90,8 +91,10 @@ education:
     date_start: '2015-09-01'
     date_end: '2018-06-01'
     summary: |
-      Grade: Summa cum Laude (highest honours). <\br>
-      Thesis: _Photonic Bloch waves_ under the supervision of Prof. Fabio Sciarrino.
+      Grade: Summa cum Laude (highest honours).
+      Thesis: _Photonic Bloch waves_.
+      
+      Supervisor: Prof. Fabio Sciarrino.
       
 work:
   - position: Postdoctoral Researcher
