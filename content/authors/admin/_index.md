@@ -97,7 +97,7 @@ education:
       - Completed extra-curricular coursework in Mathematics at the Department of Mathematics.
       
 work:
-  - position: Postdoctoral Researcher
+  - position: Postdoctoral Researcher in Mathematical Physics
     company_name: Institut des Hautes Études Scientifiques (IHES)
     company_url: 'https://www.ihes.fr/en/'
     company_logo: ''
@@ -105,8 +105,7 @@ work:
     date_start: '2024-10-01'
     date_end: ''
     summary: |2-
-      - Advisor: Prof. Maxim Kontsevich.
-      - Funded by The Huawei Young Talent Program.
+      Funded by The Huawei Young Talent Program. Advised by Prof. Maxim Kontsevich.
   - position: Research Internship in High Energy Physics Phenomenology
     company_name: European Organization for Nuclear Research (CERN)
     company_url: 'https://home.web.cern.ch'
@@ -118,13 +117,6 @@ work:
       Contributed to the design of an experimental framework for detecting muon-specific light Dark Sector particles produced via muons bremsstrahlung in proton beam-dump experiments. 
       Implemented a simulation of the proposed scenario exploiting the secondary muon flux from the proton beam dump. Predicted the sensitivity reach in the parameter space of the exotics for the experiment NA62 in beam-dump mode and the proposed experiment SHiP using programming language C++, data analysis software ROOT, and simulation software MadGraph5_aMC@NLO.
       Advised by Dr. Babette Döbrich.
-  - position: Postdoctoral Researcher
-    company_name: Institut des Hautes Études Scientifiques
-    company_url: 'https://www.ihes.fr/en/'
-    company_logo: ''
-    date_start: '2024-10-01'
-    date_end: ''
-    summary: |2-
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
