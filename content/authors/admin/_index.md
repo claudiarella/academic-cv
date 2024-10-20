@@ -76,10 +76,10 @@ education:
     date_start: '2018-09-01'
     date_end: '2019-06-01'
     summary: |
-      Grade: Distinction (highest honours). 
-      Thesis: _Motivic amplitudes_.
-      Supervisor: Prof. Francis Brown. 
-      Affiliated with St John’s College.
+      - Grade: Distinction (highest honours). 
+      - Thesis: _Motivic amplitudes_.
+      - Supervisor: Prof. Francis Brown. 
+      - Affiliated with St John’s College.
 
     #  Courses included:
     #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
