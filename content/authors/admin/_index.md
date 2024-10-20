@@ -59,10 +59,10 @@ education:
     date_start: '2020-09-01'
     date_end: '2024-09-01'
     summary: |
-      Grade: Très Bien (highest honours). 
-      Thesis: _On the arithmetic of resurgent topological strings_. 
-      Supervisor: Prof. Marcos Mariño.
-      Affiliated with NCCR SwissMAP and funded by ERC SyG ReNewQuantum.
+      - Grade: Très Bien (highest honours). 
+      - Thesis: _On the arithmetic of resurgent topological strings_. 
+      - Supervisor: Prof. Marcos Mariño.
+      - Affiliated with NCCR SwissMAP and funded by ERC SyG ReNewQuantum.
     #button:
     #  text: 'PhD Thesis'
     #  url: 'https://example.com'
@@ -91,30 +91,35 @@ education:
     date_start: '2015-09-01'
     date_end: '2018-06-01'
     summary: |
-      Grade: Summa cum Laude (highest honours).
-      Thesis: _Photonic Bloch waves_.
-      
-      Supervisor: Prof. Fabio Sciarrino.
+      - Grade: Summa cum Laude (highest honours).
+      - Thesis: _Photonic Bloch waves_.
+      - Supervisor: Prof. Fabio Sciarrino.
+      - Completed extra-curricular coursework in Mathematics at the Department of Mathematics.
       
 work:
   - position: Postdoctoral Researcher
-    company_name: Institut des Hautes Études Scientifiques
+    company_name: Institut des Hautes Études Scientifiques (IHES)
     company_url: 'https://www.ihes.fr/en/'
     company_logo: ''
     date_start: '2024-10-01'
     date_end: ''
     summary: |2-
+      - Advisor: Prof. Maxim Kontsevich.
+      - Funded by The Huawei Young Talent Program.
     #  Responsibilities include:
     #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Postdoctoral Researcher
-    company_name: Institut des Hautes Études Scientifiques
-    company_url: 'https://www.ihes.fr/en/'
+  - position: Research Internship in High Energy Physics Phenomenology
+    company_name: European Organization for Nuclear Research (CERN)
+    company_url: 'https://home.web.cern.ch'
     company_logo: ''
-    date_start: '2024-10-01'
-    date_end: ''
+    location: Geneva, Switzerland
+    date_start: '2020-07-01'
+    date_end: '2020-09-01'
     summary: |2-
+      - Advisor: Dr. Babette Döbrich.
+      - Contributed to the design of an experimental framework for detecting muon-specific light Dark Sector particles produced via muons bremsstrahlung in proton beam-dump experiments. Implemented a simulation of the proposed scenario exploiting the secondary muon flux from the proton beam dump. Predicted the sensitivity reach in the parameter space of the exotics for the experiment NA62 in beam-dump mode and the proposed experiment SHiP using programming language C++, data analysis software ROOT, and simulation software MadGraph5_aMC@NLO.
   - position: Postdoctoral Researcher
     company_name: Institut des Hautes Études Scientifiques
     company_url: 'https://www.ihes.fr/en/'
