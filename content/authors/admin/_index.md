@@ -71,7 +71,7 @@ education:
     date_start: '2019-09-01'
     date_end: '2020-06-01'
     summary: |
-      ... 
+      Collaborated with Prof Francis Brown (University of Oxford) on the application of motivic Galois theory to the study of Feynman integrals in perturbative QFT, specifically investigating the motivic Galois coaction and factorisation theorems for scalar Feynman graphs with non-generic kinematics. Collaborated with Prof Francesco Riva (University of Geneva) on EFT constraints arising from fundamental assumptions of UV consistency, specifically investigating the restrictions placed by (beyond-)positivity bounds on (beyond-)Horndeski theories of modified gravity. Attended courses on Random Matrix Theory.
   - area: MSc in Mathematical and Theoretical Physics
     institution: Mathematical Institute and Department of Physics, University of Oxford
     date_start: '2018-09-01'
@@ -117,6 +117,26 @@ work:
       Contributed to the design of an experimental framework for detecting muon-specific light Dark Sector particles produced via muons bremsstrahlung in proton beam-dump experiments. 
       Implemented a simulation of the proposed scenario exploiting the secondary muon flux from the proton beam dump. Predicted the sensitivity reach in the parameter space of the exotics for the experiment NA62 in beam-dump mode and the proposed experiment SHiP using programming language C++, data analysis software ROOT, and simulation software MadGraph5_aMC@NLO.
       Advised by Dr. Babette Döbrich.
+  - position: Business Consulting Internship
+    company_name: Pangea Formazione, Bain & Company
+    company_url: 'https://www.bain.com/'
+    company_logo: ''
+    location: Rome, Italy
+    date_start: '2019-07-01'
+    date_end: '2019-08-01'
+    summary: |2-
+      Contributed to a Deep Learning predictive model for preventative maintenance of large infrastructures equipped with alarm nets. Project implemented using Bayesian Neural Networks and programming language R and customized to fit the specific needs of the commissioning telecom company. Pangea Formazione is a Big Data Analytics and AI company providing customised software for management consulting and training. 
+      Advised by Dr. Francesco Piccolo.
+  - position: Research Internship in Experimental Particle Physics
+    company_name: Frascati National Laboratories (LNF), Italian National Institute for Subnuclear Physics (INFN)
+    company_url: 'http://padme.lnf.infn.it'
+    company_logo: ''
+    location: Rome, Italy
+    date_start: '2017-09-01'
+    date_end: '2017-11-01'
+    summary: |2-
+      Contributed to the development of a Monte Carlo optical simulation of the Small-Angle Calorimeter of PADME's detector using simulation software Geant4 and programming language C++. Characterised the performance of a single PbF2 crystal attached to a Hamamatsu R13478UV photomultiplier tube with focus on time and energy resolutions using data analysis software ROOT. PADME (Positron Annihilation into Dark Matter Experiment) is a positron-on-target collision experiment searching for dark photon production at high intensity at the DAFNE Beam Test Facility. 
+      Supervised by Prof. Mauro Raggi (Sapienza University of Rome).
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
