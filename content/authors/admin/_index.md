@@ -59,7 +59,9 @@ education:
     date_start: '2020-09-01'
     date_end: '2024-09-01'
     summary: |
-      Très Bien (highest honors). Thesis titled "On the arithmetic of resurgent topological strings" under the supervision of Prof. Marcos Mariño. Affiliated with NCCR SwissMAP and funded by ERC SyG ReNewQuantum.
+      Grade: Très Bien (highest honours). 
+      Thesis: "On the arithmetic of resurgent topological strings" under the supervision of Prof. Marcos Mariño.
+      Affiliated with NCCR SwissMAP and funded by ERC SyG ReNewQuantum.
     #button:
     #  text: 'PhD Thesis'
     #  url: 'https://example.com'
@@ -74,7 +76,9 @@ education:
     date_start: '2018-09-01'
     date_end: '2019-06-01'
     summary: |
-      Distinction (highest honors). Thesis titled "Motivic amplitudes" under the supervision of Prof. Francis Brown. Affiliated with St John’s College.
+      Grade: Distinction (highest honours). 
+      Thesis: "Motivic amplitudes" under the supervision of Prof. Francis Brown. 
+      Affiliated with St John’s College.
 
     #  Courses included:
     #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -85,7 +89,8 @@ education:
     date_start: '2015-09-01'
     date_end: '2018-06-01'
     summary: |
-      Grade: Summa cum Laude (highest honors). Thesis: "Photonic Bloch waves" under the supervision of Prof. Fabio Sciarrino.
+      Grade: Summa cum Laude (highest honours). 
+      Thesis: "Photonic Bloch waves" under the supervision of Prof. Fabio Sciarrino.
       
 work:
   - position: Postdoctoral Researcher
