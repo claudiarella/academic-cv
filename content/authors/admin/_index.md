@@ -77,7 +77,8 @@ education:
     date_end: '2019-06-01'
     summary: |
       Grade: Distinction (highest honours). 
-      Thesis: "Motivic amplitudes" under the supervision of Prof. Francis Brown. 
+      Thesis: _Motivic amplitudes_.
+      Supervisor: Prof. Francis Brown. 
       Affiliated with St John’s College.
 
     #  Courses included:
@@ -90,7 +91,7 @@ education:
     date_end: '2018-06-01'
     summary: |
       Grade: Summa cum Laude (highest honours). 
-      Thesis: "Photonic Bloch waves" under the supervision of Prof. Fabio Sciarrino.
+      Thesis: _Photonic Bloch waves_ under the supervision of Prof. Fabio Sciarrino.
       
 work:
   - position: Postdoctoral Researcher
