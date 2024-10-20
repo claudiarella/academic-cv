@@ -90,8 +90,7 @@ education:
     date_start: '2015-09-01'
     date_end: '2018-06-01'
     summary: |
-      Grade: Summa cum Laude (highest honours). 
-      
+      Grade: Summa cum Laude (highest honours). \n
       Thesis: _Photonic Bloch waves_ under the supervision of Prof. Fabio Sciarrino.
       
 work:
@@ -106,6 +105,20 @@ work:
     #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: Postdoctoral Researcher
+    company_name: Institut des Hautes Études Scientifiques
+    company_url: 'https://www.ihes.fr/en/'
+    company_logo: ''
+    date_start: '2024-10-01'
+    date_end: ''
+    summary: |2-
+  - position: Postdoctoral Researcher
+    company_name: Institut des Hautes Études Scientifiques
+    company_url: 'https://www.ihes.fr/en/'
+    company_logo: ''
+    date_start: '2024-10-01'
+    date_end: ''
+    summary: |2-
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
