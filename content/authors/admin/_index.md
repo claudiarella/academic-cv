@@ -101,15 +101,12 @@ work:
     company_name: Institut des Hautes Études Scientifiques (IHES)
     company_url: 'https://www.ihes.fr/en/'
     company_logo: ''
+    location: Bures-sur-Yvette, France
     date_start: '2024-10-01'
     date_end: ''
     summary: |2-
       - Advisor: Prof. Maxim Kontsevich.
       - Funded by The Huawei Young Talent Program.
-    #  Responsibilities include:
-    #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - position: Research Internship in High Energy Physics Phenomenology
     company_name: European Organization for Nuclear Research (CERN)
     company_url: 'https://home.web.cern.ch'
@@ -118,8 +115,9 @@ work:
     date_start: '2020-07-01'
     date_end: '2020-09-01'
     summary: |2-
-      - Advisor: Dr. Babette Döbrich.
-      - Contributed to the design of an experimental framework for detecting muon-specific light Dark Sector particles produced via muons bremsstrahlung in proton beam-dump experiments. Implemented a simulation of the proposed scenario exploiting the secondary muon flux from the proton beam dump. Predicted the sensitivity reach in the parameter space of the exotics for the experiment NA62 in beam-dump mode and the proposed experiment SHiP using programming language C++, data analysis software ROOT, and simulation software MadGraph5_aMC@NLO.
+      Contributed to the design of an experimental framework for detecting muon-specific light Dark Sector particles produced via muons bremsstrahlung in proton beam-dump experiments. 
+      Implemented a simulation of the proposed scenario exploiting the secondary muon flux from the proton beam dump. Predicted the sensitivity reach in the parameter space of the exotics for the experiment NA62 in beam-dump mode and the proposed experiment SHiP using programming language C++, data analysis software ROOT, and simulation software MadGraph5_aMC@NLO.
+      Advised by Dr. Babette Döbrich.
   - position: Postdoctoral Researcher
     company_name: Institut des Hautes Études Scientifiques
     company_url: 'https://www.ihes.fr/en/'
