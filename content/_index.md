@@ -21,7 +21,7 @@ sections:
     design:
       css_class: dark
       background:
-        color: teal #black
+        color: zinc #black
         image:
           # Add your image background to `assets/media/`.
           filename: #IMG_4574.JPG #stacked-peaks.svg
