@@ -30,25 +30,25 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: markdown
-    content:
-      title: 'Research Interests'
-      subtitle: ''
-      text: |-
-        I am interested in the many facets of theoretical high-energy physics, particularly the mathematical structures and dualities arising in quantum field and string theories. My most recent work focuses on the non-perturbative aspects of topological string theory and complex Chern-Simons theory and the interplay of resurgence, strong-weak duality, and quantum modularity. Other topics of interest are the number-theoretic properties of Calabi-Yau manifolds, algebraic and geometric structures in scattering amplitudes, effective field theory techniques, and model-building and physics probes beyond the Standard Model.
-    design:
-      columns: '1'
-  - block: collection
-    id: papers
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
+  #- block: markdown
+  #  content:
+  #    title: 'Research Interests'
+  #    subtitle: ''
+  #    text: |-
+  #      I am interested in the many facets of theoretical high-energy physics, particularly the mathematical structures and dualities arising in quantum field and string theories. My most recent work focuses on the non-perturbative aspects of topological string theory and complex Chern-Simons theory and the interplay of resurgence, strong-weak duality, and quantum modularity. Other topics of interest are the number-theoretic properties of Calabi-Yau manifolds, algebraic and geometric structures in scattering amplitudes, effective field theory techniques, and model-building and physics probes beyond the Standard Model.
+  #  design:
+  #    columns: '1'
+  #- block: collection
+  #  id: papers
+  #  content:
+  #    title: Featured Publications
+  #    filters:
+  #      folders:
+  #        - publication
+  #      featured_only: true
+  #  design:
+  #    view: article-grid
+  #    columns: 2
   - block: collection
     content:
       title: Recent Publications
