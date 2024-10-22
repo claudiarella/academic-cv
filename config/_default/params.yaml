@@ -41,6 +41,7 @@ header:
 
 # Site footer
 footer:
+  block: minimal
   copyright:
     notice: '© {year} Claudia. This work is licensed under {license}'
     license:
