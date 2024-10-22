@@ -21,7 +21,7 @@ sections:
     design:
       css_class: dark
       background:
-        color: indigo #black
+        color: teal #black
         image:
           # Add your image background to `assets/media/`.
           filename: #IMG_4574.JPG #stacked-peaks.svg
@@ -70,7 +70,7 @@ sections:
           - event
         exclude_featured: false
     design:
-      view: article-grid
+      view: card
       columns: 1
   #- block: collection
   #  id: news
