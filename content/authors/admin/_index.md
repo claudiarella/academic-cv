@@ -81,7 +81,7 @@ education:
     #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BSc in Physics
-    institution: Sapienza University of Rome
+    institution: Department of Physics, Sapienza University of Rome
     date_start: '2015-09-01'
     date_end: '2018-06-01'
     summary: |
