@@ -66,12 +66,6 @@ education:
     #button:
     #  text: 'PhD Thesis'
     #  url: 'https://example.com'
-  - area: NCCR SwissMAP Master Class in Mathematical Physics
-    institution: Section of Mathematics, University of Geneva
-    date_start: '2019-09-01'
-    date_end: '2020-06-01'
-    summary: |
-      Collaborated with Prof Francis Brown (University of Oxford) on the application of motivic Galois theory to the study of Feynman integrals in perturbative QFT, specifically investigating the motivic Galois coaction and factorisation theorems for scalar Feynman graphs with non-generic kinematics. Collaborated with Prof Francesco Riva (University of Geneva) on EFT constraints arising from fundamental assumptions of UV consistency, specifically investigating the restrictions placed by (beyond-)positivity bounds on (beyond-)Horndeski theories of modified gravity. Attended courses on Random Matrix Theory.
   - area: MSc in Mathematical and Theoretical Physics
     institution: Mathematical Institute and Department of Physics, University of Oxford
     date_start: '2018-09-01'
@@ -117,6 +111,12 @@ work:
       Contributed to the design of an experimental framework for detecting muon-specific light Dark Sector particles produced via muons bremsstrahlung in proton beam-dump experiments. 
       Implemented a simulation of the proposed scenario exploiting the secondary muon flux from the proton beam dump. Predicted the sensitivity reach in the parameter space of the exotics for the experiment NA62 in beam-dump mode and the proposed experiment SHiP using programming language C++, data analysis software ROOT, and simulation software MadGraph5_aMC@NLO.
       Supervised by Dr. Babette Döbrich.
+  - position: NCCR SwissMAP Master Class in Mathematical Physics
+    company_name: Section of Mathematics, University of Geneva
+    date_start: '2019-09-01'
+    date_end: '2020-06-01'
+    summary: |2-
+      Collaborated with Prof Francis Brown (University of Oxford) on the application of motivic Galois theory to the study of Feynman integrals in perturbative QFT, specifically investigating the motivic Galois coaction and factorisation theorems for scalar Feynman graphs with non-generic kinematics. Collaborated with Prof Francesco Riva (University of Geneva) on EFT constraints arising from fundamental assumptions of UV consistency, specifically investigating the restrictions placed by (beyond-)positivity bounds on (beyond-)Horndeski theories of modified gravity. Attended courses on Random Matrix Theory.
   - position: Business Consulting Internship
     company_name: Pangea Formazione, Bain & Company
     company_url: 'https://www.bain.com/'
