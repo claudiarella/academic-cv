@@ -191,6 +191,47 @@ awards:
     awarder: Sapienza University of Rome, Italy
     icon: 
     summary: |
+  - title: 'Excellence Program in Physics'
+    url: 
+    date: '2016-09-01'
+    awarder: Department of Physics, Sapienza University of Rome, Italy
+    icon: 
+    summary: |
+  - title: 'Summer Student Scholarship'
+    url: 
+    certificate_url: 
+    date: '2017-09-01'
+    awarder: INFN, Italy
+    icon: 
+    summary: |
+  - title: 'Best Student Award for the Course in Nuclear and Subnuclear Physics'
+    url: 
+    certificate_url: 
+    date: '2018-06-01'
+    awarder: Sapienza University of Rome and INFN, Italy
+    icon: 
+    summary: |  
+  - title: 'Torno Subito Scholarship'
+    url: 
+    certificate_url: 
+    date: '2018-09-01'
+    awarder: Department of Education, Research, and University, Lazio, Italy
+    icon: 
+    summary: | 
+  - title: 'Degree Prize for Distinction'
+    url: 
+    certificate_url: 
+    date: '2019-06-01'
+    awarder: St John’s College, University of Oxford, UK
+    icon: 
+    summary: | 
+  - title: 'Excellence Fellowship in Mathematical Physics'
+    url: 
+    certificate_url: 
+    date: '2019-09-01'
+    awarder: University of Geneva and NCCR SwissMAP, Switzerland
+    icon: 
+    summary: | 
 
 
 ---
