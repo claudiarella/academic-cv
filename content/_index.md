@@ -53,7 +53,7 @@ sections:
     id: papers
     content:
       title: Recent Publications
-      text: ""
+      count: 3
       filters:
         folders:
           - publication
@@ -64,9 +64,11 @@ sections:
     id: talks
     content:
       title: Recent & Upcoming Talks
+      count: 3
       filters:
         folders:
           - event
+        exclude_featured: false
     design:
       view: article-grid
       columns: 1
