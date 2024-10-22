@@ -187,7 +187,7 @@ languages:
 awards:
   - title: 'Deserving Student Scholarship'
     url: 
-    date: '2015'
+    date: '2015-09-01'
     awarder: Sapienza University of Rome, Italy
     icon: 
     summary: |
