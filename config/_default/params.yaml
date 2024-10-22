@@ -34,10 +34,12 @@ header:
     fixed_to_top: true
     show_search: true
     show_theme_chooser: true
+    show_title: false
     highlight_active_link: true
     align: "right"
     logo:
       text: "Claudia Rella"
+      filename: "icon.png"
 
 # Site footer
 footer:
