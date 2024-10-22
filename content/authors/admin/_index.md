@@ -185,7 +185,7 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Deserving Student Scholarship
+  - title: 'Deserving Student Scholarship'
     url: 
     date: '2015'
     awarder: Sapienza University of Rome, Italy
