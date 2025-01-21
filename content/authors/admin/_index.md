@@ -184,14 +184,13 @@ languages:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
+#awards:
 #  - title: 'Deserving Student Scholarship'
 #    url: 
 #    date: '2015-09-01'
 #    awarder: Sapienza University of Rome, Italy
 #    icon: 
 #    summary: |
-
 
 ---
 
